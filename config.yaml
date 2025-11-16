@@ -1,0 +1,10 @@
+# SMTP发件人邮箱
+EMAIL_ADDRESS: 1111111111111@qq.com
+# SMTP的授权码(QQ邮箱设置里找)
+EMAIL_PASSWORD: lkkjkjhgfghhjjj
+# 发件人邮箱
+SENDER: 1111111111111@qq.com
+# 收件人邮箱
+RECEIVER:
+  - 222222222222@qq.com
+  - 333333333333@qq.com
