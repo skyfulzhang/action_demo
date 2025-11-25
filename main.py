@@ -5,7 +5,7 @@ from send_email import send_email
 from datetime import datetime
 
 """
-热搜
+百度热搜
 """
 
 session = requests.session()
